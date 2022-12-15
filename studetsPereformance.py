@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[ ]:
+
+
+# Mohammad AbuSafat & Haya AbuRaed                                                                          Dr. Nasha't Jallad
+                                                 # Data Mining First Assignment
+
+
 # In[1]:
 
 
